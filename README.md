@@ -1,6 +1,6 @@
 # Play_Music_Using_Arduino_Buzzer
 ## Introduction
-Welcome dear reader! It's Ritika here.
+Welcome dear reader! It's Ashutosh here.
 
 This will guide you on how to play musical notes of any song on a piezoelectric buzzer, using Arduino Uno R3, a resistor and some connecting wires.
 This project can be attempted by complete beginners of Arduino as well as others, so jump into the details!
